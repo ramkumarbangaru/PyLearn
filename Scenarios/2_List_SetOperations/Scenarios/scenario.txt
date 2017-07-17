@@ -1,0 +1,11 @@
+Lets take 2 lists
+
+
+  a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+  b = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+
+1) create new list with elements which is available only in list "a" and not in "b" and print (difference)
+2) create new list with elements which is common to both lists (intersection) and print
+3) create new list with elements from both list (union) and print
+4) create new list with elements which is available either in a or b but not on both.
+
