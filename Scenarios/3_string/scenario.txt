@@ -1,0 +1,9 @@
+Lets say we have string called, 
+
+mystr = "example"
+
+1) reverse the string  and print
+2) Print 4th character of string [use indexing]
+3) Print 3rd character from last [use reverse/negative indexing]
+4) take substring from 2nd character to 5th character and print [Use slicing here]
+5) take last 3 character of the string and print [Try reverse indexing with slicing here]
