@@ -1,0 +1,11 @@
+Lets do some exception handling
+
+Remember this line, you can use in interviews   ---   "exception - Error which you expect"
+
+Lets say we have 2 variables,
+
+a = 10
+b = 0
+
+1) try devide a/b, as b is 0, it is going to throw exception, catch it and print it. 
+2) Change the value of variables to some string and do the same. 

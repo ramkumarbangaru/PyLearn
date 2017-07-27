@@ -1,0 +1,9 @@
+Lets say we have IP as string,
+
+str_ip = "10.12.12.15"
+
+1) Check if given IP is valid or not
+2) If Valid find the class it belongs to [class A or B or C ...]
+
+Do not use IP libraries like ipcalc. Perform this using string operations like, split, string compare, slice etc.
+If you like, try with reguler expression as well.  

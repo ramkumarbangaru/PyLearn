@@ -1,0 +1,7 @@
+Lets say we have string called, 
+
+mystr = "wwnonademro"
+
+1) Check the characters in the string and see if you can form the word "wonderwoman"
+2) If yes, print wonderwoman
+3) Else print Not a valid string
