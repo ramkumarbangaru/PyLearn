@@ -1,0 +1,9 @@
+imagine a chess board where columns are named with row (numbers) and column(letters)
+
+so each square can be names from a1 to h8.
+
+input to the program would be any square for example, e4. the output of the program should be, possible place a knight can move from here.
+
+so output would be,
+
+d2, f2, c3, g3, c5, g5, d6, f6

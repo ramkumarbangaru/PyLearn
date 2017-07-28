@@ -1,0 +1,7 @@
+imagine a chess board where columns are named with row (numbers) and column(letters)
+
+so each square can be names from a1 to h8.
+
+input to the program would be any 2 squares for example, e4 and d6 and output should be how many moves a knight should make to reach there. in this case 1.
+
+if input is e4 and f7, it would be 2. 
