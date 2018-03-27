@@ -1,4 +1,4 @@
-imagine a chess board where columns are named with row (numbers) and column(letters)
+imagine a chess board where cells are named with row (numbers) and column(letters)
 
 so each square can be names from a1 to h8.
 
